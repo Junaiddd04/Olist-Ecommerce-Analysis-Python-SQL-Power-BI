@@ -2,6 +2,9 @@
 # Project Overview<br>
 This project is an end-to-end data analytics pipeline analyzing over 100,000 transaction records from Olist, a Brazilian e-commerce platform. The goal was to transform highly fragmented raw data into a structured relational database and build an interactive dashboard to uncover actionable business insights regarding revenue drivers and logistical bottlenecks.
 
+## Dataset<br>
+Brazilian E-Commerce Public Dataset by Olist
+
 
 # Data Architecture & Tech Stack<br>
 This project maps the entire lifecycle of an e-commerce transaction through a robust data pipeline:
